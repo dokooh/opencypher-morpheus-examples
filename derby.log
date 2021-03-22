@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 22 11:52:47 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0178-5990-d5ed-00000c00fff0 
+on database directory /home/nima/morpheus-sbt/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1182413a 
+Loaded from file:/home/nima/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_281-b09
+user.dir=/home/nima/morpheus-sbt
+os.name=Linux
+os.arch=amd64
+os.version=5.8.0-45-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
